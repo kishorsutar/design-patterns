@@ -1,0 +1,5 @@
+
+interface TeamComponent {
+
+    fun calculateTheAmount()
+}
